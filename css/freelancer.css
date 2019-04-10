@@ -172,6 +172,7 @@ section h2 {
   }
 }
 
+
 header.masthead {
   padding-top: calc(6rem + 72px);
   padding-bottom: 6rem;
@@ -381,4 +382,10 @@ a:focus, a:hover, a:active {
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
   background-color: #1a252f;
   border-color: #1a252f;
+}
+
+#meetup a:link,
+#meetup a:visited,
+#meetup a:hover {
+    color: black;
 }
